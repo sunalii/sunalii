@@ -2,7 +2,7 @@
 ###                                Hello, I'm Sunali 👋
 
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sunalii=anuraghazra&theme=tokyonight&show_icons=true)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunalii&theme=tokyonight&show_icons=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
