@@ -1,8 +1,6 @@
 ### Hi there 👋
 ###                                Hello, I'm Sunali 👋
 
-
- ![1_zm5NLjdhGd3VVTA2u-xEPg] ![1_zm5NLjdhGd3VVTA2uxEPg](https://raw.githubusercontent.com/sunalii/stats/ed141dd57797ff8312ab1a58d6a6556ce5d14d35/Untitled.svg)
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sunalii=anuraghazra&theme=tokyonight&show_icons=true)
 
