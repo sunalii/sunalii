@@ -1,8 +1,8 @@
 <a href="https://github.com/sunalii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunalii&theme=tokyonight&show_langs_below=1" height="220px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunalii&show_icons=true&theme=tokyonight&show_height=27" alt="Sunali's github stats" height="220px" />
 </a>
 <a href="https://github.com/sunalii">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunalii&show_icons=true&theme=tokyonight&show_height=27" alt="Sunali's github stats" height="220px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunalii&theme=tokyonight&show_langs_below=1" height="220px"/>
 </a>
 
 <!--
