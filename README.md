@@ -5,6 +5,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunalii&theme=tokyonight&show_langs_below=1" height="220px"/>
 </a>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sunali-rambukwella)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sunaaliii)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/sunalirambukwella/)
+
+![](https://visitor-badge.glitch.me/badge?page_id=sunalii.visitor-badge) 
+
 <!--
 **sunalii/sunalii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunalii&theme=tokyonight&show_icons=true)
