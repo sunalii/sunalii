@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunalii&theme=tokyonight&show_langs_below=1" height="220px"/>
 </a>
 
-<br><br>
+
 
 **Reach me:** <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sunali-rambukwella)
