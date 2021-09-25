@@ -10,7 +10,7 @@
 <br>
 <br>
 
-![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=algolia&custom_title=Other%20Stats&v=2)
+![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=tokyonight&custom_title=Other%20Stats&v=2)
 
 **Reach me:** <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sunali-rambukwella)
