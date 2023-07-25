@@ -23,8 +23,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/sunalirambukwella/)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=sunalii.visitor-badge) 
-
 
 <!--
 **sunalii/sunalii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
