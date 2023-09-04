@@ -13,7 +13,7 @@
 <br>
 <br>
 
-![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=tokyonight&custom_title=Other%20Stats&v=2)
+![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=tokyonight&custom_title=Coding%20Time%20Stats&v=2)
 
 <a href="https://app.daily.dev/sunalii"><img src="https://api.daily.dev/devcards/a5460e6380ce4312b4cfebb149ef50ad.png?r=g9p" width="300" alt="Sunali Rambukwella's Dev Card"/></a>
 
