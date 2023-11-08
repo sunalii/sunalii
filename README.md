@@ -1,4 +1,17 @@
 ## Hi! I'm Sunali 😀
+**Reach me:** <br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sunali-rambukwella)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sunaaliii)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sunalii/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/sunalirambukwella/)
+
+**Coding Stats:** <br>
+[![wakatime](https://wakatime.com/badge/user/8469e1f6-1f8f-48ff-930c-d74351719259.svg)](https://wakatime.com/@8469e1f6-1f8f-48ff-930c-d74351719259)
+
+**Contributions:** <br>
+<a href="https://stackoverflow.com/users/11384258/sunali"><img src="https://stackoverflow.com/users/flair/11384258.png?theme=dark" width="208" height="58" alt="profile for Sunali at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sunali at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+**Holopin Badges:** <br>
 [![@sunalii's Holopin board](https://holopin.me/sunalii)](https://holopin.io/@sunalii)
 
 <br>
@@ -13,14 +26,11 @@
 <br>
 <br>
 
-![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=tokyonight&custom_title=Coding%20Time%20Stats&v=2)
+![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=tokyonight&custom_title=Coding%20Time%20Stats&v=2)  <a href="https://app.daily.dev/sunalii"><img src="https://api.daily.dev/devcards/a5460e6380ce4312b4cfebb149ef50ad.png?r=g9p" width="300" alt="Sunali Rambukwella's Dev Card"/></a>
 
-<a href="https://app.daily.dev/sunalii"><img src="https://api.daily.dev/devcards/a5460e6380ce4312b4cfebb149ef50ad.png?r=g9p" width="300" alt="Sunali Rambukwella's Dev Card"/></a>
 
-**Reach me:** <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sunali-rambukwella)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sunaaliii)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/sunalirambukwella/)
+
+
 
 
 
