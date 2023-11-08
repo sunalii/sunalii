@@ -1,4 +1,5 @@
 ## Hi! I'm Sunali 😀
+
 **Reach me:** <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sunali-rambukwella)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sunaaliii)
@@ -28,8 +29,7 @@
 
 ![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=tokyonight&custom_title=Coding%20Time%20Stats&v=2)  <a href="https://app.daily.dev/sunalii"><img src="https://api.daily.dev/devcards/a5460e6380ce4312b4cfebb149ef50ad.png?r=g9p" width="300" alt="Sunali Rambukwella's Dev Card"/></a>
 
-
-
+![](https://komarev.com/ghpvc/?username=sunalii&color=orange)
 
 
 
