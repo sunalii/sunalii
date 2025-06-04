@@ -9,6 +9,11 @@
 **Holopin Badges:** <br>
 [![@sunalii's Holopin board](https://holopin.me/sunalii)](https://holopin.io/@sunalii)
 
+**Junior Cybersecurity Analyst Career Path Badge:**  
+<a href="https://www.credly.com/badges/4b07cf31-542f-4162-b43b-94dc62a0c0ad/public_url">
+  <img src="https://images.credly.com/size/680x680/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="150" alt="Junior Cybersecurity Analyst Badge" />
+</a>
+
 <br>
 
 ![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=tokyonight&custom_title=Coding%20Time%20Stats&v=2)
