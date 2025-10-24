@@ -3,6 +3,8 @@
 **Coding Stats:** <br>
 [![wakatime](https://wakatime.com/badge/user/8469e1f6-1f8f-48ff-930c-d74351719259.svg)](https://wakatime.com/@8469e1f6-1f8f-48ff-930c-d74351719259)
 
+<img src="wakatime/stats.svg" height="300"/>
+
 **Contributions:** <br>
 <a href="https://stackoverflow.com/users/11384258/sunali"><img src="https://stackoverflow.com/users/flair/11384258.png?theme=dark" width="208" height="58" alt="profile for Sunali at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sunali at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
