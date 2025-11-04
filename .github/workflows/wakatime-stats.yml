@@ -1,4 +1,4 @@
-name: Update WakaTime Stats SVG
+name: Update WakaTime Stats SVGs
 
 on:
   schedule:
@@ -11,23 +11,36 @@ permissions:
 jobs:
   generate-stats:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate SVG from Vercel API
+      - name: Generate Heatmap (top row)
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           mkdir -p wakatime
-          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=${WAKATIME_API_KEY}&theme=dark_github&components=3&scale=true&border_radius=12&border_width=1&title_scale_value=0.95&component1_type=heatmap&component1_start_day=mo&component2_type=weekly_avg&component2_chart_type=bar&component2_y_axis=true&component2_y_axis_label=true&component2_hide_legend=true&component3_type=all_langs&component3_chart_type=bar_vertical&component3_num_langs=8&component3_heading_type=compact" \
-            -o wakatime/stats.svg
+          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=${WAKATIME_API_KEY}&theme=dark_github&font_family=system-ui&components=1&component1_type=heatmap&component1_start_day=mo" \
+            -o wakatime/heatmap.svg
 
-      - name: Commit SVG to repo
+      - name: Generate Weekly Average (bar)
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=${WAKATIME_API_KEY}&theme=dark_github&font_family=system-ui&components=1&component1_type=weekly_avg&component1_chart_type=bar&component1_y_axis=true&component1_y_axis_label=true&component1_hide_legend=true" \
+            -o wakatime/weekly_avg.svg
+
+      - name: Generate All Languages (4 items, hide total, vertical bars)
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=${WAKATIME_API_KEY}&theme=dark_github&font_family=system-ui&components=1&component1_type=all_langs&component1_chart_type=bar_vertical&component1_num_langs=4&component1_hide_total=true&component1_heading_type=compact" \
+            -o wakatime/all_langs.svg
+
+      - name: Commit SVGs
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add wakatime/stats.svg
-          git commit -m "Update WakaTime stats SVG" || echo "No changes"
+          git add wakatime/*.svg
+          git commit -m "Update WakaTime SVGs" || echo "No changes"
           git push
