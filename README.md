@@ -20,21 +20,32 @@
   </tr>
 </table>
 
-**Contributions:** <br>
-<a href="https://stackoverflow.com/users/11384258/sunali"><img src="https://stackoverflow.com/users/flair/11384258.png?theme=dark" width="208" height="58" alt="profile for Sunali at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sunali at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 **Holopin Badges:** <br>
 [![@sunalii's Holopin board](https://holopin.me/sunalii)](https://holopin.io/@sunalii)
 
-**Junior Cybersecurity Analyst Career Path Badge:**  
-<a href="https://www.credly.com/badges/4b07cf31-542f-4162-b43b-94dc62a0c0ad/public_url">
-<img src="https://images.credly.com/size/680x680/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="150" alt="Junior Cybersecurity Analyst Badge" />
-</a>
+**Achievements & Profiles:**
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <p><strong>Junior Cybersecurity Analyst Career Path Badge:</strong></p>
+      <a href="https://www.credly.com/badges/4b07cf31-542f-4162-b43b-94dc62a0c0ad/public_url">
+        <img src="https://images.credly.com/size/680x680/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="232" alt="Junior Cybersecurity Analyst Badge"/>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <p><strong>Daily Dev:</strong></p>
+      <a href="https://app.daily.dev/sunalii">
+        <img src="https://api.daily.dev/devcards/v2/Yma43xK7DqxWYGiJ2NneU.png?r=pcu&type=wide" width="452" alt="Sunali Rambukwella's Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+**Contributions:** <br>
+<a href="https://stackoverflow.com/users/11384258/sunali"><img src="https://stackoverflow.com/users/flair/11384258.png?theme=dark" width="208" height="58" alt="profile for Sunali at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sunali at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <br>
 
-![sunalii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunalii&layout=compact&theme=tokyonight&custom_title=Coding%20Time%20Stats&v=2)
-
-<a href="https://app.daily.dev/sunalii"><img src="https://api.daily.dev/devcards/v2/Yma43xK7DqxWYGiJ2NneU.png?r=pcu&type=wide" width="452" alt="Sunali Rambukwella's Dev Card"/></a>
+[//]: # (<a href="https://app.daily.dev/sunalii"><img src="https://api.daily.dev/devcards/v2/Yma43xK7DqxWYGiJ2NneU.png?r=pcu&type=wide" width="452" alt="Sunali Rambukwella's Dev Card"/></a>)
 
 ![](https://komarev.com/ghpvc/?username=sunalii&color=orange)
