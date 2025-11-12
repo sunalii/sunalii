@@ -39,14 +39,14 @@
 <text x="130" y="50.938154317660214" font-size="9" text-anchor="middle" fill="#c9d1d9">02:22</text>
 <text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Tue</text>
 <text x="130" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">20.2%</text>
-<rect x="160" y="64.36513225789149" width="30" height="42.13486774210851" fill="#58a6ff" rx="3" ry="3" />
-<text x="175" y="60.36513225789149" font-size="9" text-anchor="middle" fill="#c9d1d9">01:56</text>
+<rect x="160" y="63.78440188564554" width="30" height="42.71559811435446" fill="#58a6ff" rx="3" ry="3" />
+<text x="175" y="59.78440188564554" font-size="9" text-anchor="middle" fill="#c9d1d9">01:58</text>
 <text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Wed</text>
-<text x="175" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">16.5%</text>
+<text x="175" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">16.7%</text>
 <rect x="205" y="55.57097555921487" width="30" height="50.92902444078513" fill="#58a6ff" rx="3" ry="3" />
 <text x="220" y="51.57097555921487" font-size="9" text-anchor="middle" fill="#c9d1d9">02:21</text>
 <text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Thu</text>
-<text x="220" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">20.0%</text>
+<text x="220" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">19.9%</text>
 <rect x="250" y="60.5529108575466" width="30" height="45.9470891424534" fill="#58a6ff" rx="3" ry="3" />
 <text x="265" y="56.5529108575466" font-size="9" text-anchor="middle" fill="#c9d1d9">02:07</text>
 <text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Fri</text>
@@ -59,6 +59,6 @@
 <text x="355" y="100.45793587953824" font-size="9" text-anchor="middle" fill="#c9d1d9">05m</text>
 <text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
 <text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">0.8%</text>
-      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 11 hrs 46 mins</text>
+      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 11 hrs 48 mins</text>
     </g>
 </svg>
