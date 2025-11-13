@@ -43,10 +43,10 @@
 <text x="175" y="59.52487595421098" font-size="9" text-anchor="middle" fill="#c9d1d9">01:59</text>
 <text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Wed</text>
 <text x="175" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">16.8%</text>
-<rect x="205" y="55.27125841109849" width="30" height="51.22874158890151" fill="#58a6ff" rx="3" ry="3" />
-<text x="220" y="51.27125841109849" font-size="9" text-anchor="middle" fill="#c9d1d9">02:21</text>
+<rect x="205" y="54.95124903369789" width="30" height="51.54875096630211" fill="#58a6ff" rx="3" ry="3" />
+<text x="220" y="50.95124903369789" font-size="9" text-anchor="middle" fill="#c9d1d9">02:22</text>
 <text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Thu</text>
-<text x="220" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">20.0%</text>
+<text x="220" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">20.1%</text>
 <rect x="250" y="60.5529108575466" width="30" height="45.9470891424534" fill="#58a6ff" rx="3" ry="3" />
 <text x="265" y="56.5529108575466" font-size="9" text-anchor="middle" fill="#c9d1d9">02:07</text>
 <text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Fri</text>
@@ -59,6 +59,6 @@
 <text x="355" y="100.45793587953824" font-size="9" text-anchor="middle" fill="#c9d1d9">05m</text>
 <text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
 <text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">0.8%</text>
-      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 11 hrs 49 mins</text>
+      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 11 hrs 50 mins</text>
     </g>
 </svg>
