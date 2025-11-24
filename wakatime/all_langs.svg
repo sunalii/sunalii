@@ -30,7 +30,7 @@
 <rect x="75" y="94.5" width="6.451321854963587" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="system-ui" x="87.45132185496358" y="103.5" font-size="9" fill="#c9d1d9">153:53    |    6.0%</text>
 <text font-family="system-ui" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="118.5" width="5.855557310125843" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="86.85555731012585" y="127.5" font-size="9" fill="#c9d1d9">139:40    |    5.5%</text>
+<rect x="75" y="118.5" width="5.855576268442253" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="system-ui" x="86.85557626844225" y="127.5" font-size="9" fill="#c9d1d9">139:40    |    5.5%</text>
     </g>
 </svg>
