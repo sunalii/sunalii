@@ -34,11 +34,11 @@
 <rect x="70" y="46.5" width="30" height="60" fill="#58a6ff" rx="3" ry="3" />
 <text x="85" y="42.5" font-size="9" text-anchor="middle" fill="#c9d1d9">02:41</text>
 <text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Mon</text>
-<text x="85" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">23.7%</text>
-<rect x="115" y="58.93262032698481" width="30" height="47.56737967301519" fill="#58a6ff" rx="3" ry="3" />
-<text x="130" y="54.93262032698481" font-size="9" text-anchor="middle" fill="#c9d1d9">02:07</text>
+<text x="85" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">23.6%</text>
+<rect x="115" y="58.34820579865396" width="30" height="48.15179420134604" fill="#58a6ff" rx="3" ry="3" />
+<text x="130" y="54.34820579865396" font-size="9" text-anchor="middle" fill="#c9d1d9">02:09</text>
 <text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Tue</text>
-<text x="130" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">18.8%</text>
+<text x="130" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">19.0%</text>
 <rect x="160" y="62.07808754784263" width="30" height="44.42191245215737" fill="#58a6ff" rx="3" ry="3" />
 <text x="175" y="58.07808754784263" font-size="9" text-anchor="middle" fill="#c9d1d9">01:59</text>
 <text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Wed</text>
@@ -59,6 +59,6 @@
 <text x="355" y="100.31418714318622" font-size="9" text-anchor="middle" fill="#c9d1d9">05m</text>
 <text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
 <text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">0.9%</text>
-      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 11 hrs 20 mins</text>
+      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 11 hrs 22 mins</text>
     </g>
 </svg>
