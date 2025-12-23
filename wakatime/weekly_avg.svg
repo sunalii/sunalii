@@ -35,8 +35,8 @@
 <text x="85" y="42.5" font-size="9" text-anchor="middle" fill="#c9d1d9">02:45</text>
 <text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Mon</text>
 <text x="85" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">23.9%</text>
-<rect x="115" y="61.00665096427249" width="30" height="45.49334903572751" fill="#58a6ff" rx="3" ry="3" />
-<text x="130" y="57.00665096427249" font-size="9" text-anchor="middle" fill="#c9d1d9">02:05</text>
+<rect x="115" y="61.00557457443591" width="30" height="45.49442542556409" fill="#58a6ff" rx="3" ry="3" />
+<text x="130" y="57.00557457443591" font-size="9" text-anchor="middle" fill="#c9d1d9">02:05</text>
 <text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Tue</text>
 <text x="130" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">18.1%</text>
 <rect x="160" y="61.55535241679242" width="30" height="44.94464758320758" fill="#58a6ff" rx="3" ry="3" />
