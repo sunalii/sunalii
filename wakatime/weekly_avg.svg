@@ -36,15 +36,15 @@
 <rect x="160" y="65.25073613834705" width="30" height="41.24926386165295" fill="#58a6ff" rx="3" ry="3" />
 <text x="175" y="61.25073613834705" font-size="9" text-anchor="middle" fill="#c9d1d9">02:03</text>
 <text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Wed</text>
-<text x="175" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">17.5%</text>
-<rect x="205" y="54.00973580779798" width="30" height="52.49026419220202" fill="#58a6ff" rx="3" ry="3" />
-<text x="220" y="50.00973580779798" font-size="9" text-anchor="middle" fill="#c9d1d9">02:37</text>
+<text x="175" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">17.4%</text>
+<rect x="205" y="53.0003076544197" width="30" height="53.4996923455803" fill="#58a6ff" rx="3" ry="3" />
+<text x="220" y="49.0003076544197" font-size="9" text-anchor="middle" fill="#c9d1d9">02:40</text>
 <text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Thu</text>
-<text x="220" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">22.2%</text>
-<rect x="250" y="68.48028900864031" width="30" height="38.01971099135968" fill="#58a6ff" rx="3" ry="3" />
-<text x="265" y="64.48028900864031" font-size="9" text-anchor="middle" fill="#c9d1d9">01:54</text>
+<text x="220" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">22.6%</text>
+<rect x="250" y="69.1976420494606" width="30" height="37.3023579505394" fill="#58a6ff" rx="3" ry="3" />
+<text x="265" y="65.1976420494606" font-size="9" text-anchor="middle" fill="#c9d1d9">01:51</text>
 <text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Fri</text>
-<text x="265" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">16.1%</text>
+<text x="265" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">15.8%</text>
 <rect x="295" y="106.39325556219963" width="30" height="0.10674443780037829" fill="#58a6ff" rx="3" ry="3" />
 <text x="310" y="102.39325556219963" font-size="9" text-anchor="middle" fill="#c9d1d9">00m</text>
 <text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sat</text>
