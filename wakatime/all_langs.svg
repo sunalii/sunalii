@@ -16,15 +16,15 @@
       <text font-family="system-ui" x="110" y="22.5" font-size="14" text-anchor="middle" fill="#c9d1d9" font-weight="bold">My Top Languages</text>
       <text font-family="system-ui" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">Dart</text>
 <rect x="75" y="46.5" width="70" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="151" y="55.5" font-size="9" fill="#c9d1d9">1821:18    |    67.1%</text>
+<text font-family="system-ui" x="151" y="55.5" font-size="9" fill="#c9d1d9">1822:00    |    67.1%</text>
 <text font-family="system-ui" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
-<rect x="75" y="70.5" width="23.033979775713966" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="104.03397977571396" y="79.5" font-size="9" fill="#c9d1d9">599:18    |    22.1%</text>
+<rect x="75" y="70.5" width="23.025144968292885" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="system-ui" x="104.02514496829289" y="79.5" font-size="9" fill="#c9d1d9">599:18    |    22.1%</text>
 <text font-family="system-ui" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Swift</text>
-<rect x="75" y="94.5" width="5.930717574366036" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="86.93071757436604" y="103.5" font-size="9" fill="#c9d1d9">154:18    |    5.7%</text>
+<rect x="75" y="94.5" width="5.928442815590151" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="system-ui" x="86.92844281559015" y="103.5" font-size="9" fill="#c9d1d9">154:18    |    5.7%</text>
 <text font-family="system-ui" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="118.5" width="5.433158952688048" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="86.43315895268805" y="127.5" font-size="9" fill="#c9d1d9">141:21    |    5.2%</text>
+<rect x="75" y="118.5" width="5.43107503521037" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="system-ui" x="86.43107503521037" y="127.5" font-size="9" fill="#c9d1d9">141:21    |    5.2%</text>
     </g>
 </svg>
