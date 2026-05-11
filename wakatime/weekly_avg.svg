@@ -45,12 +45,12 @@
 <text x="265" y="61.00119283126523" font-size="9" text-anchor="middle" fill="#c9d1d9">02:18</text>
 <text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Fri</text>
 <text x="265" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">16.4%</text>
-<rect x="295" y="105.96957806968976" width="30" height="0.5304219303102411" fill="#58a6ff" rx="3" ry="3" />
-<text x="310" y="101.96957806968976" font-size="9" text-anchor="middle" fill="#c9d1d9">01m</text>
+<rect x="295" y="105.97958603035681" width="30" height="0.5204139696431858" fill="#58a6ff" rx="3" ry="3" />
+<text x="310" y="101.97958603035681" font-size="9" text-anchor="middle" fill="#c9d1d9">01m</text>
 <text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sat</text>
 <text x="310" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">0.2%</text>
-<rect x="340" y="106.03671854656895" width="30" height="0.463281453431045" fill="#58a6ff" rx="3" ry="3" />
-<text x="355" y="102.03671854656895" font-size="9" text-anchor="middle" fill="#c9d1d9">01m</text>
+<rect x="340" y="106.02780929091709" width="30" height="0.4721907090829131" fill="#58a6ff" rx="3" ry="3" />
+<text x="355" y="102.02780929091709" font-size="9" text-anchor="middle" fill="#c9d1d9">01m</text>
 <text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
 <text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">0.2%</text>
       <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 14 hrs 3 mins</text>
