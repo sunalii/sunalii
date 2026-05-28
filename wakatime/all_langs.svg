@@ -1,10 +1,10 @@
 
-<svg width="350" height="202.5" xmlns="http://www.w3.org/2000/svg" style="font-family:system-ui,sans-serif;">
+<svg width="350" height="70" xmlns="http://www.w3.org/2000/svg" style="font-family:system-ui,sans-serif;">
   <rect
     x="1"
     y="1"
     width="348"
-    height="200.5"
+    height="68"
     fill="#0d1117"
     stroke="#c9d1d9"
     stroke-width="2"
@@ -12,19 +12,9 @@
     ry="10"
   />
   
-  <g transform="translate(1, 10) scale(1)">
-      <text font-family="system-ui" x="110" y="22.5" font-size="14" text-anchor="middle" fill="#c9d1d9" font-weight="bold">My Top Languages</text>
-      <text font-family="system-ui" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">Dart</text>
-<rect x="75" y="46.5" width="70" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="151" y="55.5" font-size="9" fill="#c9d1d9">1963:23    |    68.5%</text>
-<text font-family="system-ui" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
-<rect x="75" y="70.5" width="21.367111684158477" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="102.36711168415847" y="79.5" font-size="9" fill="#c9d1d9">599:18    |    20.9%</text>
-<text font-family="system-ui" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Swift</text>
-<rect x="75" y="94.5" width="5.50153755506424" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="86.50153755506425" y="103.5" font-size="9" fill="#c9d1d9">154:18    |    5.4%</text>
-<text font-family="system-ui" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="118.5" width="5.25061510700157" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="86.25061510700156" y="127.5" font-size="9" fill="#c9d1d9">147:16    |    5.1%</text>
+  <g transform="translate(175, 10) scale(1)">
+      <text x="20" y="20" fill="black" font-size="14">
+              ⚠︎ Error: No all-time language data available.
+            </text>
     </g>
 </svg>
