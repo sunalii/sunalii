@@ -19,12 +19,12 @@
 <text font-family="system-ui" x="151" y="55.5" font-size="9" fill="#c9d1d9">2066:32    |    69.5%</text>
 <text font-family="system-ui" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
 <rect x="75" y="70.5" width="20.300687482906717" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="101.30068748290671" y="79.5" font-size="9" fill="#c9d1d9">599:18    |    20.2%</text>
-<text font-family="system-ui" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Swift</text>
-<rect x="75" y="94.5" width="5.227135543631472" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="86.22713554363148" y="103.5" font-size="9" fill="#c9d1d9">154:18    |    5.2%</text>
-<text font-family="system-ui" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="118.5" width="5.1971190849983255" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="system-ui" x="86.19711908499832" y="127.5" font-size="9" fill="#c9d1d9">153:25    |    5.2%</text>
+<text font-family="system-ui" x="101.30068748290671" y="79.5" font-size="9" fill="#c9d1d9">599:18    |    20.1%</text>
+<text font-family="system-ui" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
+<rect x="75" y="94.5" width="5.241441461711164" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="system-ui" x="86.24144146171116" y="103.5" font-size="9" fill="#c9d1d9">154:44    |    5.2%</text>
+<text font-family="system-ui" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Swift</text>
+<rect x="75" y="118.5" width="5.227135543631472" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="system-ui" x="86.22713554363148" y="127.5" font-size="9" fill="#c9d1d9">154:18    |    5.2%</text>
       </g>
 </svg>
