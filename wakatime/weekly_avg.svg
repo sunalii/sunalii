@@ -28,7 +28,7 @@
 <rect x="70" y="50.535234100863605" width="30" height="55.964765899136395" fill="#58a6ff" rx="3" ry="3" />
 <text x="85" y="46.535234100863605" font-size="9" text-anchor="middle" fill="#c9d1d9">03:00</text>
 <text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Mon</text>
-<text x="85" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">21.7%</text>
+<text x="85" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">21.6%</text>
 <rect x="115" y="60.47523744051513" width="30" height="46.02476255948487" fill="#58a6ff" rx="3" ry="3" />
 <text x="130" y="56.47523744051513" font-size="9" text-anchor="middle" fill="#c9d1d9">02:28</text>
 <text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Tue</text>
@@ -49,10 +49,10 @@
 <text x="310" y="100.15537548936071" font-size="9" text-anchor="middle" fill="#c9d1d9">07m</text>
 <text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sat</text>
 <text x="310" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">0.9%</text>
-<rect x="340" y="104.97502113267716" width="30" height="1.52497886732285" fill="#58a6ff" rx="3" ry="3" />
-<text x="355" y="100.97502113267716" font-size="9" text-anchor="middle" fill="#c9d1d9">04m</text>
+<rect x="340" y="104.46886008360354" width="30" height="2.0311399163964543" fill="#58a6ff" rx="3" ry="3" />
+<text x="355" y="100.46886008360354" font-size="9" text-anchor="middle" fill="#c9d1d9">06m</text>
 <text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
-<text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">0.6%</text>
-      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 13 hrs 52 mins</text>
+<text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">0.8%</text>
+      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 13 hrs 53 mins</text>
       </g>
 </svg>
