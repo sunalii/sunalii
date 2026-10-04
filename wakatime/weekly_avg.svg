@@ -49,10 +49,10 @@
 <text x="310" y="99.27498246051493" font-size="9" text-anchor="middle" fill="#c9d1d9">10m</text>
 <text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sat</text>
 <text x="310" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">1.2%</text>
-<rect x="340" y="102.71766304870144" width="30" height="3.782336951298565" fill="#58a6ff" rx="3" ry="3" />
-<text x="355" y="98.71766304870144" font-size="9" text-anchor="middle" fill="#c9d1d9">11m</text>
+<rect x="340" y="102.47811923957609" width="30" height="4.0218807604239135" fill="#58a6ff" rx="3" ry="3" />
+<text x="355" y="98.47811923957609" font-size="9" text-anchor="middle" fill="#c9d1d9">12m</text>
 <text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
 <text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">1.5%</text>
-      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 13 hrs 30 mins</text>
+      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 13 hrs 31 mins</text>
       </g>
 </svg>
