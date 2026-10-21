@@ -32,11 +32,11 @@
 <rect x="115" y="64.7834749879238" width="30" height="41.7165250120762" fill="#58a6ff" rx="3" ry="3" />
 <text x="130" y="60.783474987923796" font-size="9" text-anchor="middle" fill="#c9d1d9">02:12</text>
 <text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Tue</text>
-<text x="130" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">16.6%</text>
-<rect x="160" y="54.18662332341834" width="30" height="52.31337667658166" fill="#58a6ff" rx="3" ry="3" />
-<text x="175" y="50.18662332341834" font-size="9" text-anchor="middle" fill="#c9d1d9">02:45</text>
+<text x="130" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">16.5%</text>
+<rect x="160" y="53.476337923021866" width="30" height="53.023662076978134" fill="#58a6ff" rx="3" ry="3" />
+<text x="175" y="49.476337923021866" font-size="9" text-anchor="middle" fill="#c9d1d9">02:47</text>
 <text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Wed</text>
-<text x="175" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">20.8%</text>
+<text x="175" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">21.0%</text>
 <rect x="205" y="46.5" width="30" height="60" fill="#58a6ff" rx="3" ry="3" />
 <text x="220" y="42.5" font-size="9" text-anchor="middle" fill="#c9d1d9">03:10</text>
 <text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Thu</text>
@@ -53,6 +53,6 @@
 <text x="355" y="98.43170772521916" font-size="9" text-anchor="middle" fill="#c9d1d9">12m</text>
 <text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
 <text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">1.6%</text>
-      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 13 hrs 17 mins</text>
+      <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 13 hrs 19 mins</text>
       </g>
 </svg>
