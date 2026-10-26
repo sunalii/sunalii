@@ -25,8 +25,8 @@
 <text x="62" y="64.5" font-size="9" text-anchor="end" fill="#c9d1d9">02:20</text>
 <text x="62" y="49.5" font-size="9" text-anchor="end" fill="#c9d1d9">03:07</text>
 <text x="22" y="76.5" font-size="9" text-anchor="middle" transform="rotate(-90, 22, 76.5)" fill="#c9d1d9">Time</text>
-<rect x="70" y="55.28456170175849" width="30" height="51.21543829824151" fill="#58a6ff" rx="3" ry="3" />
-<text x="85" y="51.28456170175849" font-size="9" text-anchor="middle" fill="#c9d1d9">02:40</text>
+<rect x="70" y="55.26611873132353" width="30" height="51.23388126867647" fill="#58a6ff" rx="3" ry="3" />
+<text x="85" y="51.26611873132353" font-size="9" text-anchor="middle" fill="#c9d1d9">02:40</text>
 <text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Mon</text>
 <text x="85" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">20.1%</text>
 <rect x="115" y="64.31543684900235" width="30" height="42.18456315099765" fill="#58a6ff" rx="3" ry="3" />
@@ -49,8 +49,8 @@
 <text x="310" y="98.73850089275744" font-size="9" text-anchor="middle" fill="#c9d1d9">11m</text>
 <text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sat</text>
 <text x="310" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">1.5%</text>
-<rect x="340" y="102.38606356036301" width="30" height="4.113936439636992" fill="#58a6ff" rx="3" ry="3" />
-<text x="355" y="98.38606356036301" font-size="9" text-anchor="middle" fill="#c9d1d9">12m</text>
+<rect x="340" y="102.46368499890535" width="30" height="4.036315001094653" fill="#58a6ff" rx="3" ry="3" />
+<text x="355" y="98.46368499890535" font-size="9" text-anchor="middle" fill="#c9d1d9">12m</text>
 <text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#c9d1d9">Sun</text>
 <text x="355" y="130.5" font-size="9" text-anchor="middle" fill="#c9d1d9">1.6%</text>
       <text x="212.5" y="156.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 13 hrs 18 mins</text>
